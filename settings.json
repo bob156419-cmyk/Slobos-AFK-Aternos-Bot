@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "imaginarykid.aternos.me",
+    "port": 17099,
     "version": "",
     "try-creative": false
   },
